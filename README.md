@@ -151,6 +151,10 @@ http://image5.suning.cn/b2c/catentries/000000000106040162_1_200x200.jpg
 			│  ├── base/base1.0.css [通用样式库,目前版本 1.0 ]
 			│  └── module/ [样式组件库,待更新]
 			│
+			│
+			│
+			│
+			│
 			├── common/script/lib/
 			│	└──zepto/1.1.4/zepto.min.js [团队基础库,内置 $.cookie, artTemplate]
 			│
